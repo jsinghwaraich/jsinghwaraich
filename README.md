@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hello :wave: I am Software Developer @[BlackBerry](https://www.blackberry.com/us/en) building AI/Machine Learning Systems and Enterprise Software.
 
 <!--
 **jsinghwaraich/jsinghwaraich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
