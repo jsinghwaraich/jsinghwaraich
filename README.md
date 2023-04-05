@@ -6,8 +6,8 @@
   <a href="mailto:jaspreet@jaspreet.io" target="_blank"><img alt="Jaspreet's Email" height="50" width="50" src="assets/mail.svg"/></a>
 </p>
 
-<center>
+<p align="center">
 
 ![Jaspreet's Profile Views](https://komarev.com/ghpvc/?username=jsinghwaraich&color=blue&label=Profile+Views)
 
-</center>
+</p>
