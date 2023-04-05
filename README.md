@@ -12,6 +12,9 @@
 <a href="mailto:jaspreet@jaspreet.io" target="_blank">
 <img align="left" alt="Jaspreet's Email" height="50" width="50" src="./assets/mail.svg"/>
 </a>
+</p>
+
+<p align="center">
 
 ![Jaspreet's Profile Views](https://komarev.com/ghpvc/?username=jsinghwaraich&color=blue&label=Profile+Views)
 
