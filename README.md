@@ -4,11 +4,11 @@
   <img align="left" alt="Jaspreet's LinkedIN" height="48" width="48" src="./assets/linkedin.svg"/>
 
 <a href="https://twitter.com/jsinghwaraich">
-  <img align="left" alt="Jaspreet's Twitter" width="22px" src="./assets/twitter.svg"/>
+  <img align="left" alt="Jaspreet's Twitter" height="48" width="48" src="./assets/twitter.svg"/>
 </a>
 
 <a href="mailto:jaspreet@jaspreet.io">
-  <img align="left" alt="Jaspreet's Email" width="22px" src="./assets/mail.svg"/>
+  <img align="left" alt="Jaspreet's Email" height="48" width="48" src="./assets/mail.svg"/>
 </a>
 <!--
 **jsinghwaraich/jsinghwaraich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
