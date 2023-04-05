@@ -8,7 +8,7 @@
 </a>
 
 <a href="mailto:jaspreet@jaspreet.io">
-  <img align="left" alt="Jaspreet's Email" height="48" width="48" src="./assets/mail.svg"/>
+  <img align="left" alt="Jaspreet's Email" height="50" width="50" src="./assets/mail.svg"/>
 </a>
 <!--
 **jsinghwaraich/jsinghwaraich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
