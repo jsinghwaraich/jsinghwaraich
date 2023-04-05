@@ -1,7 +1,7 @@
 ## Hello :wave: I am Software Developer @[BlackBerry](https://www.blackberry.com/us/en) building AI/Machine Learning Systems and Enterprise Software.
 
 <a href="https://www.linkedin.com/in/jsinghwaraich/">
-  <img align="left" alt="Jaspreet's LinkedIN" width="22px" src="./assets/linkedin.svg"/>
+  <img align="left" alt="Jaspreet's LinkedIN" height="48" width="48" src="./assets/linkedin.svg"/>
 
 <a href="https://twitter.com/jsinghwaraich">
   <img align="left" alt="Jaspreet's Twitter" width="22px" src="./assets/twitter.svg"/>
