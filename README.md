@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jsinghwaraich/" target="_blank"><img alt="Jaspreet's LinkedIN" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"/></a>
-  <a href="https://twitter.com/jsinghwaraich" target="_blank"><img alt="Jaspreet's Twitter" height="48" width="48" src="assets/twitter.svg"/></a>
+  <a href="https://www.linkedin.com/in/waraichinc/" target="_blank"><img alt="Jaspreet's LinkedIN" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"/></a>
+  <a href="https://twitter.com/waraichinc" target="_blank"><img alt="Jaspreet's Twitter" height="48" width="48" src="assets/twitter.svg"/></a>
   <a href="mailto:jaspreet@jaspreet.io" target="_blank"><img alt="Jaspreet's Email" height="50" width="50" src="assets/mail.svg"/></a>
 </p>
 
